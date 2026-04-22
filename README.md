@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Bioinformatics, data science
 - 📫 How to reach me using my email: mafwilaantoine54@gmail.com, ...
 - How to reach me using whatsApp: +24165396412, 6243817523664
-[![Projet Externe](https://img.shields.io/badge/Projet-oauth2-github.2-blue?style=for-the-badge&logo=github)](https://github.com/r-lib/httr/blob/main/demo/oauth2-github.r)
+[![Projet Externe](https://img.shields.io/badge/Projet-oauth2-github.r-blue?style=for-the-badge&logo=github)](https://github.com/r-lib/httr/blob/main/demo/oauth2-github.r)
 
 <!---
 AntoineMafwila/AntoineMafwila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
